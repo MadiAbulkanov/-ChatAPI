@@ -1,0 +1,43 @@
+.add_page {
+    display: flex;
+    flex-direction: column;
+    width: 800px;
+    padding: 20px;
+    margin: auto;
+    background-color: rgb(224, 224, 224);
+}
+
+.add_page_title {
+    font-size: 33px;
+    text-align: center;
+    margin: 10px;
+}
+
+.form {
+    width: 300px;
+    margin: 0 auto;
+}
+
+.message_author {
+    width:  100%;
+}
+
+.message_text {
+    width:  100%;
+    height: 100px;
+    margin-bottom: 10px;
+}
+
+
+.save_button {
+    width: 100%;
+    color: inherit;
+    text-decoration: none;
+    padding: 10px 30px;
+    border: 1px solid white;
+    background-color: rgb(240, 233, 223);
+}
+
+.save_button:hover {
+    background-color: bisque;
+}

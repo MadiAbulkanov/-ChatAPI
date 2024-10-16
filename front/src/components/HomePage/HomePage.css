@@ -1,0 +1,13 @@
+.posts_block {
+    border: 1px solid ;
+    padding: 15px;
+}
+
+.block_title {
+    font-size: 25px;
+    margin-left: 20px;
+}
+
+.posts {
+    margin-top: 50px;
+}

@@ -1,0 +1,16 @@
+.request_form_title {
+    margin-top: 0;
+    font-size: 17px;
+    color: #353229;
+}
+
+.saerch_data {
+    padding: 6px;
+    margin-right: 5px;
+    border: 1px solid #8e6f15;
+}
+
+.search_button {
+    padding: 6px 25px;
+    border: 1px solid #8e6f15;
+}

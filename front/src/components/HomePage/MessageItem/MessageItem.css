@@ -1,0 +1,11 @@
+.message_item {
+    border: 1px solid;
+    padding: 20px;
+    margin-top: 15px;
+}
+
+.item-date {
+    margin: 0;
+    color: rgb(124, 124, 124);
+    float: right;
+}
